@@ -1,0 +1,73 @@
+From tylerpate to Everyone: (06:11 PM)
+What’s the difference between “Assignments” and “Homework”?
+From Ali to Everyone: (06:11 PM)
+Andy, Please could you focus on LogN and nLogN?
+From Ori to Everyone: (06:11 PM)
+I had a question about comparing log(n^4) and n^3, which grows faster?  Is there a rule/technique for such comparisons?
+From Me to Everyone: (06:12 PM)
+Can you also compare time complexity over certain groups of algorithms something besides just the sorting algorithms
+From Ashvin Patel to Everyone: (06:12 PM)
+Can you explain a little more about space complexity
+From Hashma to Everyone: (06:12 PM)
+Can you talk about examples of factorial time algorithms and how to identify them?
+From Divya Aggarwal to Everyone: (06:13 PM)
+Can you clear the structure of homework files and assignments? I am not too sure if i have seen those? will they be available in foundations? where is the complexity stuff
+From Sola to Everyone: (06:13 PM)
+Are we required to do all the problems in the hw?  (One of the assignments said “Attempt some of the problems in the accompanied problem set for Frequency count to hammer in this algorithm pattern.”)
+From yefei to Everyone: (06:13 PM)
+can you talk about alogrithms that are O(2^n) ?
+From archith to Everyone: (06:16 PM)
+how to determine if a problem needs to be solved recursively? because most of the recursive solutions can be solved iteratively so when to go for recursion?
+From andy@outco.io to Everyone: (06:16 PM)
+bigocheatsheet.com
+From tylerpate to Everyone: (06:16 PM)
+Could you speak to the workflow that we should follow? Check syllabus for Homework ==> Watch corresponding video ==> Complete corresponding GitHub Homework ==> Push Work ?
+From Ali to Everyone: (06:19 PM)
+So, blown is bigger than O(n)
+?
+logN is bigger than o(n)
+From abhishekjaitley to Everyone: (06:22 PM)
+I find it confusing to quickly write the time complexity of recursive problems since it requires finding the time complexity of recurrence relations. Could you suggest a quicker way to find the time complexity of recursive solutions.
+From Silvia Fernandez to Everyone: (06:24 PM)
+how do you spell that?
+From yefei to Everyone: (06:25 PM)
+strstr
+From Divya Aggarwal to Everyone: (06:25 PM)
+i think its strstr
+From Silvia Fernandez to Everyone: (06:25 PM)
+thank you
+From tylerpate to Everyone: (06:27 PM)
+Would you speak more the the reason why Outco chose the types of Algos and Data Structure that the course covers?
+From karthik to Everyone: (06:51 PM)
+Quick question regarding white boarding for remote folks? Should we need to get whiteboard for the class?
+From jameswang to Everyone: (07:01 PM)
+ali - O(logN) is smaller/faster than O(N), if N is 1000, O(N) will be 1000, but log10N will be 3
+From Ali to Everyone: (07:03 PM)
+Thanks James. Should be take the worst scenario ?
+From jameswang to Everyone: (07:05 PM)
+yeah like if N is a billion then O(logN) will be six compared to O(N) being a billion
+or something close to six depending on the base
+From Me to andy@outco.io: (Privately) (07:20 PM)
+Can you give an example with log base 2 N^2
+From Ali to Everyone: (07:21 PM)
+Really heloful James
+From Hashma to Everyone: (07:22 PM)
+Will log(n^2) also be equal to log(n)?
+From Jeremy to Everyone: (07:22 PM)
+log(n^2) = 2 log(n) by that power rule he mentioned
+so it's O(log n)
+From Hashma to Everyone: (07:23 PM)
+got it, thanks!
+From andy@outco.io to Everyone: (07:23 PM)
+CLASS24
+From dave to Everyone: (07:25 PM)
+what is the url?
+From edreesjalili to Everyone: (07:25 PM)
+class.outco.io
+From Bhanoday Puram to Everyone: (07:26 PM)
+It says $500
+From jameswang to Everyone: (07:26 PM)
+use the coupon code CLASS24
+From edreesjalili to Everyone: (07:26 PM)
+enrool and when u get to the payment page use the coupon
+enroll*
